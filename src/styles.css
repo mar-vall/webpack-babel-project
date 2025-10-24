@@ -1,7 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    text-align: center;
-    padding: 50px;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(90deg, #c388f6, #6c2fe6);
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+img {
+  width: 550px;
+  margin-top: 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
